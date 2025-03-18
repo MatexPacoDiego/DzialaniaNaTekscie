@@ -20,6 +20,12 @@ class Program
         Console.WriteLine(PolishSigns(text));
     }
 
+    /* Funkcja Text
+    Parametr: brak
+    Zwracany typ: string
+    Opis: Funkcja wczytuje zawartość pliku tekstowego o nazwie text.txt przy pomocy StreamReader i 
+    zwraca całą jego zawartość jako jeden ciąg znaków (string). Zawartość pliku jest zbierana do StringBuilder, 
+    a następnie konwertowana na zwykły tekst.*/
     static string Text()
     {
         
@@ -31,6 +37,13 @@ class Program
         
         return sb.ToString();
     }
+    
+    /*Funkcja HowManyWords
+Parametr: text typu string, który przyjmuje tekst, w którym będziemy liczyć słowa.
+    Zwracany typ: int
+    Opis:Funkcja dzieli tekst na pojedyncze słowa rozdzielając je spacjami i liczy, ile 
+    z nich ma długość większą niż 3 znaki. Zwraca liczbę takich słów
+    */
 
     static int HowManyWords(string text)
     {
@@ -46,6 +59,13 @@ class Program
         
         return meter;
     }
+    
+    /*Funkcja Palindrom
+Parametr:text typu string, który przyjmuje słowo, które ma być sprawdzone pod kątem bycia palindromem.
+    Zwracany typ: bool
+    Opis: Funkcja sprawdza, czy dane słowo jest palindromem, 
+    czyli czy czytane od przodu jest takie samo jak od tyłu. 
+    Funkcja ignoruje wielkość liter, zamieniając tekst na małe litery przed analizą. Zwraca true, jeśli tekst jest palindromem, w przeciwnym razie false.*/
 
     static bool Palindrom(string text)
     
@@ -62,6 +82,14 @@ class Program
 
         return true;
     }
+    
+    /*Funkcja ResultPalindrom
+    Parametr:text typu string, który przyjmuje tekst, w którym mają być znalezione palindromy.
+    Zwracany typ: brak
+    Opis:Funkcja najpierw dzieli tekst na słowa. Następnie tworzy listę słów, które 
+    mają więcej niż 3 litery. Dla tych słów sprawdza, czy są palindromami, a następnie wypisuje 
+    je na ekranie, łącznie z liczbą palindromów. Jeśli nie znajdzie żadnego palindromu, wypisuje odpowiedni komunikat.*/
+    
 
     static void ResultPalindrom(string text)
     {
@@ -101,6 +129,13 @@ class Program
 
         
     }
+    
+    /*Funkcja HowManyVowels
+    Parametr:text typu string, który przyjmuje tekst, w którym mają być liczone samogłoski.
+    Zwracany typ: int
+    Opis:Funkcja liczy samogłoski w danym tekście, uwzględniając polskie 
+    samogłoski. Funkcja konwertuje tekst na małe litery,aby ignorować wielkość liter, a następnie zlicza samogłoski.
+     Zwraca liczbę samogłoskowych znaków w tekście.*/
 
     static int HowManyVowels(string text)
     {
@@ -120,6 +155,12 @@ class Program
 
         return meter;
     }
+    
+    /*Funkcja PolishSigns
+    Parametr:text typu string, który przyjmuje tekst zawierający polskie znaki diakrytyczne.
+    Zwracany typ: string
+    Opis:Funkcja zamienia polskie znaki. Funkcja przechodzi przez tekst i wykonuje odpowiednie zamiany, zwracając zmodyfikowany tekst. 
+    Wykorzystuje StringBuilder do modyfikacji ciągu znaków.*/
 
     static string PolishSigns(string text)
     {
