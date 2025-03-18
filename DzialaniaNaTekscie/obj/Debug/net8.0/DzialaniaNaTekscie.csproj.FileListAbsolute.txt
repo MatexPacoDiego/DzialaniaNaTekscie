@@ -1,0 +1,15 @@
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\bin\Debug\net8.0\DzialaniaNaTekscie.exe
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\bin\Debug\net8.0\DzialaniaNaTekscie.deps.json
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\bin\Debug\net8.0\DzialaniaNaTekscie.runtimeconfig.json
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\bin\Debug\net8.0\DzialaniaNaTekscie.dll
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\bin\Debug\net8.0\DzialaniaNaTekscie.pdb
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\obj\Debug\net8.0\DzialaniaNaTekscie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\obj\Debug\net8.0\DzialaniaNaTekscie.AssemblyInfoInputs.cache
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\obj\Debug\net8.0\DzialaniaNaTekscie.AssemblyInfo.cs
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\obj\Debug\net8.0\DzialaniaNaTekscie.csproj.CoreCompileInputs.cache
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\obj\Debug\net8.0\DzialaniaNaTekscie.sourcelink.json
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\obj\Debug\net8.0\DzialaniaNaTekscie.dll
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\obj\Debug\net8.0\refint\DzialaniaNaTekscie.dll
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\obj\Debug\net8.0\DzialaniaNaTekscie.pdb
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\obj\Debug\net8.0\DzialaniaNaTekscie.genruntimeconfig.cache
+C:\Users\28mat\Documents\szkoła\C#\tekst\DzialaniaNaTekscie\DzialaniaNaTekscie\obj\Debug\net8.0\ref\DzialaniaNaTekscie.dll
